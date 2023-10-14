@@ -1,0 +1,22 @@
+.card {
+    border: 10px solid coral;
+    width: 250px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    color: crimson;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
